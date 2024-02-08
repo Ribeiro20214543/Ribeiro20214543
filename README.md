@@ -6,7 +6,7 @@
 * Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
 * Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
 
-Participo de projetos de Iniciação Científica e de pós-graduação como pesquisador bolsista e voluntario:
+Participo de projetos de Iniciação Científica, Extensão e de Pós-Graduação junto ao Departamento de Ciência e Gestão da Informação da UFPR:
 * Metodologias para Gestão da Informação
 * Infojus - Informação, Direito e Sociedade
 * Bases de Dados de Direito
