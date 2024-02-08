@@ -18,6 +18,7 @@ Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, I
 Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conference on Information Systems in Latin America (ISLA 2023), 2023, On-line. 7th Conference on Information Systems in Latin America (ISLA 2023), 2023. v. 1. p. 1-10.
 
 **Skills**:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
