@@ -7,15 +7,17 @@
 * Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
 
 Participo de projetos de Iniciação Científica e de pós-graduação como pesquisador bolsista e voluntario:
-- Metodologias para Gestão da Informação
-- Infojus - Informação, Direito e Sociedade
-- Bases de Dados de Direito
-- Gestão da Informação Científica
+* Metodologias para Gestão da Informação
+* Infojus - Informação, Direito e Sociedade
+* Bases de Dados de Direito
+* Gestão da Informação Científica
 
-  Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
+Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
+
+**Best Paper Award** - "Análise de Sentimento da Poesia de João Cabral de Melo Neto", 7th Conference on Information Systems in Latin America (ISLA 2023)
+Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conference on Information Systems in Latin America (ISLA 2023), 2023, On-line. 7th Conference on Information Systems in Latin America (ISLA 2023), 2023. v. 1. p. 1-10.
 
 **Skills**:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
