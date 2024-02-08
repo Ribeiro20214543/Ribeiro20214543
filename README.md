@@ -1,4 +1,4 @@
-Olá, eu sou @PatrickFRR
+Olá, eu sou @Patrick Ribeiro
 
 Minha formação:
 * Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
