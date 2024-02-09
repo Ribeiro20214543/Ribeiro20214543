@@ -1,17 +1,25 @@
- Olá, sou @Patrick Ribeiro!!
+ Olá, sou **@Patrick Ribeiro**!!
 
-**Formação**:
+# Formação:
 * Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
 * Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
 * Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
 * Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
 
-Participo de projetos de Iniciação Científica, Extensão e de Pós-Graduação junto ao Departamento de Ciência e Gestão da Informação da UFPR:
+# Grupos de Pesquisa que atuo:
 * Metodologias para Gestão da Informação
 * Infojus - Informação, Direito e Sociedade
-* Bases de Dados de Direito
 * Gestão da Informação Científica
 
+## Linhas de Pesquisa em que atuo
+* Métricas e Análise da Informação
+* Gestão da Informação Legal
+
+## Projetos em que atuo:
+* Bases de Dados de Direito
+* Ciência Aberta e Gestão da Informação Científica
+* Gestão da Informação Científica no contexto da Ciência Aberta
+  
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
 
 **Best Paper Award** - "Análise de Sentimento da Poesia de João Cabral de Melo Neto", 7th Conference on Information Systems in Latin America (ISLA 2023)
@@ -37,6 +45,9 @@ Estou animado para contribuir com projetos interessantes e desafiadores aqui no 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro20214543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro20214543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Ribeiro20214543/Ribeiro20214543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
