@@ -1,19 +1,21 @@
  Olá, sou **@Patrick Ribeiro**!!
 
-# Formação:
+## Minha Formação:
 * Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
 * Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
 * Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
 * Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
 
-# Grupos de Pesquisa que atuo:
+## Grupos de Pesquisa que participo:
 * Metodologias para Gestão da Informação
 * Infojus - Informação, Direito e Sociedade
 * Gestão da Informação Científica
 
-## Linhas de Pesquisa em que atuo
+## Linhas de Pesquisa em que atuo:
 * Métricas e Análise da Informação
 * Gestão da Informação Legal
+* Inteligência Artificial aplicada a Gestão da Informação
+* NLP para análise de textos 
 
 ## Projetos em que atuo:
 * Bases de Dados de Direito
