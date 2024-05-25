@@ -46,7 +46,7 @@ Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conferenc
 📫: 
 - patrick_ribeiro@ymail.com / patrick.ribeiro@ufpr.br
 
-Estou animado para contribuir com projetos interessantes e desafiadores aqui no GitHub. Vamos construir algo incrível juntos! 🚀
+Sempre em busca de algo incrível... 🚀
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro20214543&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
