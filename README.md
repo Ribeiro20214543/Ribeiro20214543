@@ -1,26 +1,29 @@
  Olá, sou **@Patrick Ribeiro**!!
 
 ## Minha Formação:
-* Graduação em Letras  pela Universidade Católica de Santos (UniSantos)
-* Bacharel em Gestão da Informação  pela Universidade Federal do Paraná (UFPR)
-* Especialização em Metodologia de Ensino de LE pela Universidade de Brasília (UnB)
-* Mestrado em Teoria e Crítica pela Universidade Estadual de Campinas (UNICAMP)
+* **Bacharel em Gestão da Informação**  pela Universidade Federal do Paraná (UFPR)
+* **Graduado em Letras Potuguês/Espanhol** pela Universidade Católica de Santos (UniSantos)
+* **Especialista em Metodologia de Ensino de LE** pela Universidade de Brasília (UnB)
+* **Mestre em Teoria e Crítica** pela Universidade Estadual de Campinas (UNICAMP)
 
 ## Grupos de Pesquisa que participo:
-* Metodologias para Gestão da Informação
-* Infojus - Informação, Direito e Sociedade
-* Gestão da Informação Científica
+* Metodologias para Gestão da Informação - [Acesso](dgp.cnpq.br/dgp/espelhogrupo/8079711387911310)
+* Infojus - Informação, Direito e Sociedade - [Acesso](https://dgp.cnpq.br/dgp/espelhogrupo/6939154292115982)
 
 ## Linhas de Pesquisa em que atuo:
 * Métricas e Análise da Informação
 * Gestão da Informação Legal
-* Inteligência Artificial aplicada a Gestão da Informação
-* NLP para análise de textos 
+* Base de Dados Abertos
+* Ciência Aberta
+* Linguística Computacional
+* Inteligência Artificial Aplicada a Gestão da Informação
+* Processamento de Linguagem Natural
 
 ## Projetos em que atuo:
-* Bases de Dados de Direito
+* Análise da Produção Científica Docente dos Programas de Pós-Graduação em Direito do SUl do Brasil (Concluído)
 * Ciência Aberta e Gestão da Informação Científica
 * Gestão da Informação Científica no contexto da Ciência Aberta
+* Base de Dados Regional da Ciência Aberta e do Acesso Aberto do Domínio do Direito 
   
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
 
