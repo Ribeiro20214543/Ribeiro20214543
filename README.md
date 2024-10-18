@@ -4,7 +4,7 @@
 * **Doutorando em Gestão da Informação** pela Universidade Federal do Paraná (UFPR)
 * **Bacharel em Gestão da Informação**  pela Universidade Federal do Paraná (UFPR)
 * **Mestre em Teoria e Crítica** pela Universidade Estadual de Campinas (UNICAMP)
-* **Graduado em Letras Potuguês/Espanhol** pela Universidade Católica de Santos (UniSantos)
+* **Graduado em Letras Português/Espanhol** pela Universidade Católica de Santos (UniSantos)
 * **Especialista em Metodologia de Ensino de LE** pela Universidade de Brasília (UnB)
 
 
