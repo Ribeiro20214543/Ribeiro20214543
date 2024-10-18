@@ -1,10 +1,12 @@
  Olá, sou **@Patrick Ribeiro**!!
 
 ## Minha Formação:
+* **Doutorando em Gestão da Informação** pela Universidade Federal do Paraná (UFPR)
 * **Bacharel em Gestão da Informação**  pela Universidade Federal do Paraná (UFPR)
+* **Mestre em Teoria e Crítica** pela Universidade Estadual de Campinas (UNICAMP)
 * **Graduado em Letras Potuguês/Espanhol** pela Universidade Católica de Santos (UniSantos)
 * **Especialista em Metodologia de Ensino de LE** pela Universidade de Brasília (UnB)
-* **Mestre em Teoria e Crítica** pela Universidade Estadual de Campinas (UNICAMP)
+
 
 ## Grupos de Pesquisa que participo:
 * Metodologias para Gestão da Informação - [Acesso](dgp.cnpq.br/dgp/espelhogrupo/8079711387911310)
@@ -18,12 +20,13 @@
 * Linguística Computacional
 * Inteligência Artificial Aplicada a Gestão da Informação
 * Processamento de Linguagem Natural
+* Grandes Modelos de Línguagem
 
 ## Projetos em que atuo:
-* Análise da Produção Científica Docente dos Programas de Pós-Graduação em Direito do SUl do Brasil (Concluído)
+* Análise da Produção Científica Docente dos Programas de Pós-Graduação em Direito do Sul do Brasil (Concluído)
 * Ciência Aberta e Gestão da Informação Científica
 * Gestão da Informação Científica no contexto da Ciência Aberta
-* Base de Dados Regional da Ciência Aberta e do Acesso Aberto do Domínio do Direito 
+* Base de Dados Regional da Ciência Aberta e do Acesso Aberto do Domínio do Direito - Projeto Parajas
   
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
 
