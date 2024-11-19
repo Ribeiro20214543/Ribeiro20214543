@@ -30,7 +30,7 @@
   
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
 
-**Best Paper Award** - "Análise de Sentimento da Poesia de João Cabral de Melo Neto", 7th Conference on Information Systems in Latin America (ISLA 2023)
+**Best Paper Award** - 
 Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conference on Information Systems in Latin America (ISLA 2023), 2023, On-line. 7th Conference on Information Systems in Latin America (ISLA 2023), 2023. v. 1. p. 1-10.
 
 **Skills**:
