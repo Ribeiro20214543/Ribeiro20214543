@@ -1,4 +1,6 @@
- Olá, sou **@Patrick Ribeiro**!!
+[Versão em inglês](https://github.com/Ribeiro20214543/PatrickFRR/edit/main/README.md)
+
+Olá, sou **@Patrick Ribeiro**!!
 
 ## Minha Formação:
 * **Doutorando em Gestão da Informação** pela Universidade Federal do Paraná (UFPR)
