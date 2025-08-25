@@ -15,20 +15,21 @@ Olá, sou **@Patrick Ribeiro**!!
 * Infojus - Informação, Direito e Sociedade - [Acesso](https://dgp.cnpq.br/dgp/espelhogrupo/6939154292115982)
 
 ## Linhas de Pesquisa em que atuo:
+* Inteligência Artificial Aplicada a Gestão da Informação
+* Processamento de Linguagem Natural
+* Grandes Modelos de Línguagem
+* Linguística Computacional
 * Métricas e Análise da Informação
 * Gestão da Informação Legal
 * Base de Dados Abertos
 * Ciência Aberta
-* Linguística Computacional
-* Inteligência Artificial Aplicada a Gestão da Informação
-* Processamento de Linguagem Natural
-* Grandes Modelos de Línguagem
 
 ## Projetos em que atuo:
 * Análise da Produção Científica Docente dos Programas de Pós-Graduação em Direito do Sul do Brasil (Concluído)
 * Ciência Aberta e Gestão da Informação Científica
 * Gestão da Informação Científica no contexto da Ciência Aberta
 * Base de Dados Regional da Ciência Aberta e do Acesso Aberto do Domínio do Direito - Projeto Parajas
+* HarmonIA
   
 Nestes projetos aplico e  desenvolvo habilidades em SQL, Python, Estatística, Inteligência Artificial, Mineração de Dados, Banco de Dados, Angular, como também JavaScript, HTML, CSS, TypeScript, R entre outras tecnologias.
 
