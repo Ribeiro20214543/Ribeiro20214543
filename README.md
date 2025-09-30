@@ -15,6 +15,7 @@ Olá, sou **@Patrick Ribeiro**!!
 * InfoJus - Núcleo de Pesquisa em Informação, Direito e Sociedade [Acesso](https://www.infojus.org.br/)
   * Informação, Direito e Sociedade - [Acesso](https://dgp.cnpq.br/dgp/espelhogrupo/6939154292115982)
   * Metodologias para Gestão da Informação - [Acesso](dgp.cnpq.br/dgp/espelhogrupo/8079711387911310)
+* Análise de Dados (UPFR)
 
 ## Linhas de Pesquisa em que atuo:
 * Inteligência Artificial Aplicada a Gestão da Informação
