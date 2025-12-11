@@ -56,7 +56,5 @@ Sempre em busca de algo incrível... 🚀
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribeiro20214543&show_icons=true&theme=dracula)
 
-<!---
-Ribeiro20214543/Ribeiro20214543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- Ribeiro20214543/Ribeiro20214543 is a special repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.--->
